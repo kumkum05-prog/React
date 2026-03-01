@@ -1,0 +1,23 @@
+.box{
+  height:200px;
+  width:300px;
+  background-color: blanchedalmond;
+}
+
+.page1{
+  height:600px;
+  width:100%;
+  background-color: cornflowerblue;
+}
+
+.page2{
+  height:600px;
+  width:100%;
+  background-color:fuchsia;
+}
+
+.page3{
+  height:600px;
+  width:100%;
+  background-color:lime;
+}

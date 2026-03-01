@@ -1,0 +1,21 @@
+
+.cardio{
+  background-color: palevioletred;
+  font-weight: 800;
+  border-radius: 20%;
+  margin: 20px;
+  padding: 20px;
+}
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.nav{
+  background-color: blueviolet;
+  padding: 20px;
+  
+}
